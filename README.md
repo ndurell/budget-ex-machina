@@ -1,2 +1,2 @@
 # budget-ex-machina
-Budgeting app experimental app.
+Experimental budgeting app (in swift).
